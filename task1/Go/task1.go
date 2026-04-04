@@ -8,7 +8,7 @@ func main() {
 	var N int
 	fmt.Print("Enter N: ")
 	fmt.Scan(&N)
-	fmt.Print(closestPrimeNumber(N))
+	fmt.Print(closestPrimeNumber(N), "\n")
 }
 
 func isPrime(num int) bool {

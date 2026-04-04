@@ -1,3 +1,5 @@
+//kotlin task1.kt -include-runtime -d task1.jar
+//java -jar task1.jar
 import kotlin.math.sqrt
 
 fun isPrime(num: Int): Boolean {
